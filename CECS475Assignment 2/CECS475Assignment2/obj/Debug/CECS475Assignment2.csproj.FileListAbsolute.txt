@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment2\CECS475Assignment2\bin\Debug\CECS475Assignment2.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment2\CECS475Assignment2\bin\Debug\CECS475Assignment2.exe
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment2\CECS475Assignment2\bin\Debug\CECS475Assignment2.pdb
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment2\CECS475Assignment2\obj\Debug\CECS475Assignment2.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment2\CECS475Assignment2\obj\Debug\CECS475Assignment2.exe
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment2\CECS475Assignment2\obj\Debug\CECS475Assignment2.pdb
