@@ -1,0 +1,38 @@
+﻿<Window x:Class="CECSAssignment3.MainWindow"
+        x:Name="mainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CECSAssignment3"
+        xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+        mc:Ignorable="d"
+        DataContext="{Binding Source={StaticResource Locator}, Path=MainViewModel}"
+        Title="Membership Maintenance" Height="300" Width="650" Icon="images.ico">
+    <Grid Background="#FFECEAEA">
+        <Button x:Name="button" Content="Add" Grid.Row="1" Grid.Column="1" Command="{Binding AddCommand}" HorizontalAlignment="Left" VerticalAlignment="Top"
+                Width="75" Margin="0,50,0,0" ></Button>
+        <Button x:Name="button2" Content="Delete" Grid.Row ="1" Grid.Column ="1" Command="{Binding DeleteCommand}" CommandParameter="{Binding ElementName=mainWindow}" 
+        HorizontalAlignment="Left" VerticalAlignment="Center" Width="75" Margin="0,0,0,50"/>
+        <Button x:Name="button3" Content="Exit" Grid.Row ="1" Grid.Column ="1" Command="{Binding ExitCommand, Mode=OneWay}" CommandParameter="{Binding ElementName=mainWindow}" 
+        HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="75" Margin="0,0,0,50"/>
+        <ListBox x:Name="listbox" ItemsSource="{Binding Members, Mode=OneWay}"  DisplayMemberPath="Display" SelectedItem="{Binding CurrentMember}" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"
+                 Height="220" Width="322">
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="MouseDoubleClick">
+                    <i:InvokeCommandAction Command="{Binding SelectedItemCommand}" CommandParameter="{Binding ElementName=listbox,Path=SelectedItem}" />
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+            
+        </ListBox>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="380"/>
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="250"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+    </Grid>
+</Window>
