@@ -1,0 +1,15 @@
+c:\users\hp\documents\visual studio 2015\Projects\CECSAssignment4\CECSAssignment4\bin\Debug\CECSAssignment4.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\CECSAssignment4\CECSAssignment4\bin\Debug\Books.mdf
+c:\users\hp\documents\visual studio 2015\Projects\CECSAssignment4\CECSAssignment4\bin\Debug\Books_log.ldf
+c:\users\hp\documents\visual studio 2015\Projects\CECSAssignment4\CECSAssignment4\bin\Debug\CECSAssignment4.exe
+c:\users\hp\documents\visual studio 2015\Projects\CECSAssignment4\CECSAssignment4\bin\Debug\CECSAssignment4.pdb
+c:\users\hp\documents\visual studio 2015\Projects\CECSAssignment4\CECSAssignment4\bin\Debug\EntityFramework.dll
+c:\users\hp\documents\visual studio 2015\Projects\CECSAssignment4\CECSAssignment4\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\hp\documents\visual studio 2015\Projects\CECSAssignment4\CECSAssignment4\bin\Debug\EntityFramework.xml
+c:\users\hp\documents\visual studio 2015\Projects\CECSAssignment4\CECSAssignment4\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\hp\documents\visual studio 2015\Projects\CECSAssignment4\CECSAssignment4\obj\Debug\CECSAssignment4.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\CECSAssignment4\CECSAssignment4\obj\Debug\CECSAssignment4.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\CECSAssignment4\CECSAssignment4\obj\Debug\CECSAssignment4.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\CECSAssignment4\CECSAssignment4\obj\Debug\CECSAssignment4.exe
+c:\users\hp\documents\visual studio 2015\Projects\CECSAssignment4\CECSAssignment4\obj\Debug\CECSAssignment4.pdb
+c:\users\hp\documents\visual studio 2015\Projects\CECSAssignment4\CECSAssignment4\obj\Debug\CECSAssignment4.BooksDatabase.resources
