@@ -1,0 +1,76 @@
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\bin\Debug\CECS475Assignment5.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\bin\Debug\CECS475Assignment5.exe
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\bin\Debug\CECS475Assignment5.pdb
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\bin\Debug\CommonServiceLocator.dll
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\bin\Debug\GalaSoft.MvvmLight.dll
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\bin\Debug\System.Windows.Interactivity.dll
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\bin\Debug\GalaSoft.MvvmLight.pdb
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\bin\Debug\GalaSoft.MvvmLight.xml
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\obj\Debug\CECS475Assignment5.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\obj\Debug\MainWindow.g.cs
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\obj\Debug\App.g.cs
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\obj\Debug\CECS475Assignment5_MarkupCompile.cache
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\obj\Debug\CECS475Assignment5_MarkupCompile.lref
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\obj\Debug\MainWindow.baml
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\obj\Debug\CECS475Assignment5.g.resources
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\obj\Debug\CECS475Assignment5.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\obj\Debug\CECS475Assignment5.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\obj\Debug\CECS475Assignment5.exe
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\obj\Debug\CECS475Assignment5.pdb
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\obj\Debug\CECS475Assignment5_Content.g.cs
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\bin\Debug\MMABooks.mdf
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\bin\Debug\MMABooks_log.ldf
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\bin\Debug\EntityFramework.dll
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\bin\Debug\EntityFramework.xml
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\obj\Debug\App.baml
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\obj\Debug\View\AddCustomer.g.cs
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\obj\Debug\View\UpdateCustomer.g.cs
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\obj\Debug\View\AddCustomer.baml
+c:\users\hp\documents\visual studio 2015\Projects\CECS475Assignment5\CECS475Assignment5\obj\Debug\View\UpdateCustomer.baml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\bin\Debug\CECS475Assignment5.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\obj\Debug\CECS475Assignment5.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\obj\Debug\CECS475Assignment5.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\bin\Debug\MMABooks.mdf
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\bin\Debug\MMABooks_log.ldf
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\bin\Debug\CECS475Assignment5.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\bin\Debug\CECS475Assignment5.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\bin\Debug\CommonServiceLocator.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\bin\Debug\EntityFramework.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\bin\Debug\EntityFramework.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\obj\Debug\CECS475Assignment5.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\obj\Debug\View\AddCustomer.g.cs
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\obj\Debug\View\UpdateCustomer.g.cs
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\obj\Debug\App.g.cs
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\obj\Debug\CECS475Assignment5_Content.g.cs
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\obj\Debug\CECS475Assignment5_MarkupCompile.cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\obj\Debug\CECS475Assignment5_MarkupCompile.lref
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\obj\Debug\App.baml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\obj\Debug\MainWindow.baml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\obj\Debug\View\AddCustomer.baml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\obj\Debug\View\UpdateCustomer.baml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\obj\Debug\CECS475Assignment5.g.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\obj\Debug\CECS475Assignment5.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\CECS475Assignment5 - Copy\CECS475Assignment5\obj\Debug\CECS475Assignment5.csproj.GenerateResource.Cache
