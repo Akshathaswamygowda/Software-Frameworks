@@ -1,0 +1,25 @@
+﻿<Window x:Class="CECS475Assignment7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CECS475Assignment7"
+        mc:Ignorable="d"
+        DataContext="{Binding Source={StaticResource Locator},Path=MainViewModel}"
+        Title="FlickerViewer" Height="450" Width="700">
+    <Grid Background="#FFECEAEA">
+        <Label x:Name="label" Content="Enter Flicker Search Tags Here :" HorizontalAlignment="Left" Margin="10,32,0,0" VerticalAlignment="Top" Width="194"/>
+        <TextBox x:Name="textBox" Text="{Binding Title}" HorizontalAlignment="Left" Height="23" Margin="209,32,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="336"/>
+        <ListBox x:Name="listBox"  ItemsSource="{Binding FlickerList, Mode=OneWay, IsAsync=True}" DisplayMemberPath="Title" SelectedValuePath="Url" SelectedItem="{Binding SelectedItem}"  
+               HorizontalAlignment="Left" Height="332" Margin="10,63,0,0" VerticalAlignment="Top" Width="194">
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="SelectionChanged">
+                    <i:InvokeCommandAction Command="{Binding SelectedItemCommand}" CommandParameter="{Binding ElementName=listbox,Path=SelectedItem}" />
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+        </ListBox>
+        <Button x:Name="button" Command="{Binding SearchEngine}" Content="Search" HorizontalAlignment="Left" Margin="566,32,0,0" VerticalAlignment="Top" Width="116"/>
+        <Image x:Name="image" Stretch="Fill" HorizontalAlignment="Left" Height="332" Margin="209,63,0,0" VerticalAlignment="Top" Width="473"/>
+    </Grid>
+</Window>
