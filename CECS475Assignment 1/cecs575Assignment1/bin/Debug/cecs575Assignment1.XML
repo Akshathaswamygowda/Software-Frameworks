@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>cecs575Assignment1</name>
+    </assembly>
+    <members>
+        <member name="F:cecs575Assignment1.IntegerSet.size">
+            <summary>
+            Each Integer Set is represented by boolean array .</summary>
+            
+        </member>
+        <member name="M:cecs575Assignment1.IntegerSet.#ctor">
+            <summary>
+            class  constructor. </summary>
+        </member>
+        <member name="M:cecs575Assignment1.IntegerSet.#ctor(System.Int32[])">
+            <summary>
+            Parameter Constructor
+            </summary>
+            <param name="intarray"></param>
+        </member>
+        <member name="M:cecs575Assignment1.IntegerSet.Insertset(System.Int32)">
+            <summary>
+            Method for inserting num into set
+            </summary>
+            <param name="num"></param>
+        </member>
+        <member name="M:cecs575Assignment1.IntegerSet.Deleteset(System.Int32)">
+            <summary>
+            Method for deleting num from set
+            </summary>
+            <param name="num"></param>
+        </member>
+        <member name="M:cecs575Assignment1.IntegerSet.ToString">
+            <summary>
+            Method for displaying the set elements
+            </summary>
+            <returns>returns string value</returns>
+        </member>
+        <member name="M:cecs575Assignment1.IntegerSet.IsEqualTo(cecs575Assignment1.IntegerSet)">
+            <summary>
+            Method for comapring two sets to check if its equal
+            </summary>
+            <param name="ob"></param>
+            <returns>return bool value</returns>
+        </member>
+        <member name="M:cecs575Assignment1.IntegerSet.Union(cecs575Assignment1.IntegerSet)">
+            <summary>
+            Method for union operation
+            </summary>
+            <param name="ob"></param>
+            <returns>returns class object</returns>
+        </member>
+        <member name="M:cecs575Assignment1.IntegerSet.Intersection(cecs575Assignment1.IntegerSet)">
+            <summary>
+            Method for intersection operation
+            </summary>
+            <param name="ob"></param>
+            <returns>returns class object value</returns>
+        </member>
+        <member name="M:cecs575Assignment1.Program.inputset">
+            <summary>
+            Method for taking input from user
+            </summary>
+            <returns>returns class object</returns>
+        </member>
+    </members>
+</doc>
